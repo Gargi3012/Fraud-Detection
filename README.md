@@ -39,4 +39,7 @@ An end-to-end Machine Learning solution designed to identify fraudulent financia
 The dataset used for this project is the PaySim synthetic dataset from Kaggle, which simulates mobile money transactions.
 
 * **Total Records:** 6.3 Million+ transactions.
+* <img width="1919" height="969" alt="Screenshot1" src="https://github.com/user-attachments/assets/934fae0a-1dcb-4b58-bc1d-34fb3695ff00" />
+<img width="1898" height="934" alt="Screenshot2" src="https://github.com/user-attachments/assets/65ee9ef7-74d4-4d53-a17b-301f9c68d6df" />
+
 * **Download Link:** [Kaggle Fraud Detection Dataset](https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset)
