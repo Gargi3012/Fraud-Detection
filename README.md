@@ -1,4 +1,4 @@
-# Financial-Fraud-Detection-Data-Science
+# Financial-Fraud-Detection
 
 An end-to-end Machine Learning solution designed to identify fraudulent financial transactions. This project leverages a large-scale dataset to train a classification model and features an interactive web dashboard for real-time risk assessment.
 
